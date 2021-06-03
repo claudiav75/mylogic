@@ -1,0 +1,2 @@
+# mylogic
+my thinking logics
